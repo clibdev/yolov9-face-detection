@@ -17,9 +17,9 @@ pip install -r requirements.txt
 
 * Download links:
 
-| Name         | Model Size (MB) | Link                                                                                                                                                                                                                              | SHA-256                                                                                                                              |
-|--------------|-----------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------|
-| YOLOv9c-Face | 390.7<br>193.9  | [PyTorch](https://github.com/clibdev/yolov9-face-detection/releases/latest/download/yolov9c-face-spacewalk01.pt)<br>[ONNX](https://github.com/clibdev/yolov9-face-detection/releases/latest/download/yolov9c-face-spacewalk01.pt) | 403bd148652e8c5cfd39ba4c3e4f631b85bb0ea2bc583e0907426acc25138d29<br>3ab8234da28b74a28015662a672d147cd60fb540082c3c88eea69aa387069136 |
+| Name         | Model Size (MB) | Link                                                                                                                                                                                                                                | SHA-256                                                                                                                              |
+|--------------|-----------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------|
+| YOLOv9c-Face | 390.7<br>193.9  | [PyTorch](https://github.com/clibdev/yolov9-face-detection/releases/latest/download/yolov9c-face-spacewalk01.pt)<br>[ONNX](https://github.com/clibdev/yolov9-face-detection/releases/latest/download/yolov9c-face-spacewalk01.onnx) | 403bd148652e8c5cfd39ba4c3e4f631b85bb0ea2bc583e0907426acc25138d29<br>3ab8234da28b74a28015662a672d147cd60fb540082c3c88eea69aa387069136 |
 
 # Inference
 
