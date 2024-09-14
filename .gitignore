@@ -1,0 +1,5 @@
+__pycache__
+.idea
+yolov9/runs
+*.pt
+*.onnx
